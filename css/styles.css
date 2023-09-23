@@ -106,9 +106,18 @@ ul {
 .content-section {
   background-color: #2e2f42;
   color: #ffffff;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
 }
+
 .content-info-top {
-  color: #434455;
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .content-info {
   font-size: 20px;
